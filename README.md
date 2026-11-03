@@ -9,14 +9,25 @@ The wrapper script BAAJA.m calls subroutines to output all the numbers and graph
 To run BAAJA.m, please ensure the following functions are on your Matlab path:
 
 initializeBaselineParameters.m
+
 setDerivedParameters.m
+
 fitDirectUseParameters.m
+
 stochasticSimulation.m
+
 energyReport.m
+
 revenueReport.m
+
 jobReport.m
+
 greenhouseGasReport.m
+
 mortalityReport.m
+
 tradeoffReport.m
+
 deterministicSimulation.m
+
 tradeoffPlots.m
