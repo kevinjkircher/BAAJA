@@ -30,4 +30,6 @@ tradeoffReport.m
 
 deterministicSimulation.m
 
+trirnd.m
+
 tradeoffPlots.m
